@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "homepage": "https://kesh-007.github.io/website",
+  "homepage": "https://kesh-007.github.io/webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
